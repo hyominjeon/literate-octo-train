@@ -12,7 +12,7 @@ import Darwin
 
 class ViewController: UIViewController {
     
-    let apiKey:String = "apiKey"
+    let apiKey:String = "myApiKey"
     var label: UILabel = UILabel(frame: CGRect.init(x: 10, y: 100, width: 300, height: 20))
     var button: UIButton = UIButton(frame: CGRect.init(x: 10, y: 140, width: 70, height: 20))
     
